@@ -2,4 +2,8 @@
 
 ## Shopify-clone, this project is a part of our Bootcamp at iNeuron
 
-![image](<./images/Screenshot (346).png>)
+Technologies used:
+- HTML
+- CSS
+
+[Live link](https://z-shopify-clone-website.netlify.app/)
