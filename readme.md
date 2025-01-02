@@ -1,8 +1,8 @@
-# Hi I'm Zareel
+# Shopify Clone
 
-## Shopify-clone, this project is a part of our Bootcamp at iNeuron
+## This project is a part of our Live Bootcamp at iNeuron, Bangalore.
 
-Technologies used:
+### Technologies used:
 - HTML
 - CSS
 
